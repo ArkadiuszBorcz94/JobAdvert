@@ -1,0 +1,216 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Studia\\Semestr_6\\KomunikacjaCzlowiekKomputer\\ProjektLaby\\Company.Storage\\Company.Storage.csproj": {}
+  },
+  "projects": {
+    "F:\\Studia\\Semestr_6\\KomunikacjaCzlowiekKomputer\\ProjektLaby\\Common storage\\Common.Storage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Studia\\Semestr_6\\KomunikacjaCzlowiekKomputer\\ProjektLaby\\Common storage\\Common.Storage.csproj",
+        "projectName": "Common.Storage",
+        "projectPath": "F:\\Studia\\Semestr_6\\KomunikacjaCzlowiekKomputer\\ProjektLaby\\Common storage\\Common.Storage.csproj",
+        "packagesPath": "C:\\Users\\arono\\.nuget\\packages\\",
+        "outputPath": "F:\\Studia\\Semestr_6\\KomunikacjaCzlowiekKomputer\\ProjektLaby\\Common storage\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "G:\\Programy\\VisualStudio\\Visual_Shered\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\arono\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Studia\\Semestr_6\\KomunikacjaCzlowiekKomputer\\ProjektLaby\\Company.CrossCutting\\Company.CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Studia\\Semestr_6\\KomunikacjaCzlowiekKomputer\\ProjektLaby\\Company.CrossCutting\\Company.CrossCutting.csproj",
+        "projectName": "Company.CrossCutting",
+        "projectPath": "F:\\Studia\\Semestr_6\\KomunikacjaCzlowiekKomputer\\ProjektLaby\\Company.CrossCutting\\Company.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\arono\\.nuget\\packages\\",
+        "outputPath": "F:\\Studia\\Semestr_6\\KomunikacjaCzlowiekKomputer\\ProjektLaby\\Company.CrossCutting\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "G:\\Programy\\VisualStudio\\Visual_Shered\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\arono\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Studia\\Semestr_6\\KomunikacjaCzlowiekKomputer\\ProjektLaby\\Company.Storage\\Company.Storage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Studia\\Semestr_6\\KomunikacjaCzlowiekKomputer\\ProjektLaby\\Company.Storage\\Company.Storage.csproj",
+        "projectName": "Company.Storage",
+        "projectPath": "F:\\Studia\\Semestr_6\\KomunikacjaCzlowiekKomputer\\ProjektLaby\\Company.Storage\\Company.Storage.csproj",
+        "packagesPath": "C:\\Users\\arono\\.nuget\\packages\\",
+        "outputPath": "F:\\Studia\\Semestr_6\\KomunikacjaCzlowiekKomputer\\ProjektLaby\\Company.Storage\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "G:\\Programy\\VisualStudio\\Visual_Shered\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\arono\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "F:\\Studia\\Semestr_6\\KomunikacjaCzlowiekKomputer\\ProjektLaby\\Common storage\\Common.Storage.csproj": {
+                "projectPath": "F:\\Studia\\Semestr_6\\KomunikacjaCzlowiekKomputer\\ProjektLaby\\Common storage\\Common.Storage.csproj"
+              },
+              "F:\\Studia\\Semestr_6\\KomunikacjaCzlowiekKomputer\\ProjektLaby\\Company.CrossCutting\\Company.CrossCutting.csproj": {
+                "projectPath": "F:\\Studia\\Semestr_6\\KomunikacjaCzlowiekKomputer\\ProjektLaby\\Company.CrossCutting\\Company.CrossCutting.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
